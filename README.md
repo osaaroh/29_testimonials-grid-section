@@ -1,6 +1,6 @@
-# Frontend Mentor - Social media dashboard with theme switcher
+# Frontend Mentor - Testimonials grid section
 
-![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
 ## Table of contents
 
@@ -19,16 +19,13 @@
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Toggle color theme to their preference
-
+- View the optimal layout for the component depending on their device's screen size
 
 
 
 ### Links
 
-- Live Site URL: []()
+- Live Site URL: [Live Demo](https://testimonials-grid-section-o.netlify.app/)
 
 ## My process
 
